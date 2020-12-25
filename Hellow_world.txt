@@ -1,0 +1,7 @@
+public Hellow_world
+{
+public void static main(String args[]){
+
+System.out.println("hellow Git");
+}
+}
